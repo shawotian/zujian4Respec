@@ -9,8 +9,8 @@
 #import "XHGetHeightTool.h"
 
 @implementation XHGetHeightTool
-+(CGFloat)getHeightWithString:(NSString*)str
-{
-    return 30;
-}
+//+(CGFloat)getHeightWithString:(NSString*)str
+//{
+//    return 30;
+//}
 @end

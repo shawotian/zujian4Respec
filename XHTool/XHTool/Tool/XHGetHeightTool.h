@@ -7,11 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
+//#import <UIKit/UIKit.h>
 
 @interface XHGetHeightTool : NSObject
 
-+(CGFloat)getHeightWithString:(NSString*)str;
+//+(CGFloat)getHeightWithString:(NSString*)str;
 
 
 @end
